@@ -1,4 +1,4 @@
-# Repo
+# Cosine Similarity between two similar sentences
 Text pre-processing - Removing stop words and punctuations -Stopwords - and, is, are, at, etc. Punctuationa - “” ,  . ? ! etc. 
 Transforming all words to lower case  - GREAT , Great , great -  great 
 Stemming in NLP is simply transforming any word to it’s base stem ( set of characters that are used to form the word and it’s derivative ) - tune , tuning ,tuned - tune
